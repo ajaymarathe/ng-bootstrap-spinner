@@ -1,0 +1,21 @@
+{
+  "name": "ng-b-spinner",
+  "version": "0.0.3",
+  "peerDependencies": {
+    "@angular/common": "^8.2.11",
+    "@angular/core": "^8.2.11"
+  },
+  "main": "bundles/ng-spinner.umd.js",
+  "module": "fesm5/ng-spinner.js",
+  "es2015": "fesm2015/ng-spinner.js",
+  "esm5": "esm5/ng-spinner.js",
+  "esm2015": "esm2015/ng-spinner.js",
+  "fesm5": "fesm5/ng-spinner.js",
+  "fesm2015": "fesm2015/ng-spinner.js",
+  "typings": "ng-spinner.d.ts",
+  "metadata": "ng-spinner.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
