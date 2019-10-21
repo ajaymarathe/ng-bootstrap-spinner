@@ -21,7 +21,7 @@
         };
         NgSpinnerComponent.decorators = [
             { type: core.Component, args: [{
-                        selector: 'app-ng-spinner',
+                        selector: 'ng-spinner',
                         template: "<div [ngClass]=\"['text-' + this.color,'spinner-' + this.type]\" [ngStyle]=\"{'width': size+'rem','height':size+'rem'}\"\r\n  role=\"status\">\r\n  <span class=\"sr-only\">Loading...</span>\r\n</div>\r\n",
                         styles: [""]
                     }] }

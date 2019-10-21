@@ -1,7 +1,7 @@
 import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
-    selector: 'app-ng-spinner',
+    selector: 'ng-spinner',
     templateUrl: './ng-spinner.component.html',
     styleUrls: ['./ng-spinner.component.scss']
 })
