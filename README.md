@@ -2,7 +2,8 @@
 
 🍺 Hi there, Ng Bootstrap Spinner for Angular Lovers <3, Thanks...
 
-[![NPM](https://img.shields.io/npm/v/ng-bootstrap-spinner.svg)](https://www.npmjs.com/package/ng-bootstrap-spinner)  [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/ng-bootstrap-spinner.svg)](https://www.npmjs.com/package/ng-bootstrap-spinner) [![NPM](https://img.shields.io/npm/dt/ng-bootstrap-spinner.svg)](https://www.npmjs.com/package/ng-bootstrap-spinner) 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Installation
 Using NPM:
